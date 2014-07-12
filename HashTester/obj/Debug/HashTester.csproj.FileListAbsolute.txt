@@ -1,0 +1,7 @@
+C:\github\HashWrapper\HashTester\bin\Debug\HashTester.dll
+C:\github\HashWrapper\HashTester\bin\Debug\HashTester.pdb
+C:\github\HashWrapper\HashTester\bin\Debug\HashWrapper.dll
+C:\github\HashWrapper\HashTester\bin\Debug\HashWrapper.pdb
+C:\github\HashWrapper\HashTester\obj\Debug\HashTester.csprojResolveAssemblyReference.cache
+C:\github\HashWrapper\HashTester\obj\Debug\HashTester.dll
+C:\github\HashWrapper\HashTester\obj\Debug\HashTester.pdb

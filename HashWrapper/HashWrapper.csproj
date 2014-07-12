@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CRC32.cs" />
     <Compile Include="HashGen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
