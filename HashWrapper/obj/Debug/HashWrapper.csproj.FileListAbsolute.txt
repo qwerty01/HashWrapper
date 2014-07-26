@@ -1,5 +1,0 @@
-C:\github\HashWrapper\HashWrapper\obj\Debug\HashWrapper.csprojResolveAssemblyReference.cache
-C:\github\HashWrapper\HashWrapper\bin\Debug\HashWrapper.dll
-C:\github\HashWrapper\HashWrapper\bin\Debug\HashWrapper.pdb
-C:\github\HashWrapper\HashWrapper\obj\Debug\HashWrapper.dll
-C:\github\HashWrapper\HashWrapper\obj\Debug\HashWrapper.pdb
